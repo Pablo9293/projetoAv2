@@ -1,7 +1,7 @@
 /*Escreva um programa que inverta a ordem dos elementos em um vetor  */
 import java.util.Scanner;
 import java.util.Arrays;
-public class ex29vetorInvertido{
+public class ex29_vetorInvertido{
     public static void ordemInvertida(int[] vetor){
         int tamanho = vetor.length;
 

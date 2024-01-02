@@ -1,6 +1,6 @@
 /*Implemente um programa que calcule o fatorial de um numero usando recursividade.*/
 import java.util.Scanner;
-public class ex28FatRecursividade{
+public class ex28_FatRecursividade{
     public static int calculaFatorial(int numero){
         if(numero == 0 || numero == 1){ // Condição base para recursividade
             return 1;

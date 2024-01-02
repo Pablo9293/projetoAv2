@@ -1,6 +1,6 @@
 /*Elabore um programa que substitua todas as vogais em uma string por asteristicos */
 import java.util.Scanner;
-public class ex27asteristicos{
+public class ex27_asteristicos{
     public static String substituirTodasAsVogaisPorAsteristicos(String texto){
         if (texto == null  || texto.isEmpty()){
             return texto;

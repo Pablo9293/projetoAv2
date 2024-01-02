@@ -1,7 +1,7 @@
 /*Desenvolva um programa que conte o numero de palavras em uma string */
 
 import java.util.Scanner;
-public class ex26contaPalavrasString{
+public class ex26_contaPalavrasString{
     public static int contadorPalavras(String texto){
         if(texto == null  || texto.isEmpty()){
             return  0;

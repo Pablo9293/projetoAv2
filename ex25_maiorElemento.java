@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class ex25maiorElemento{
+public class ex25_maiorElemento{
     
         
         public static int segundoMaiorElemento(int[] vetor){
